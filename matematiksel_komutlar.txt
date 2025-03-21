@@ -1,0 +1,29 @@
+﻿//double sayi1;
+            //sayi1 = -458.47;
+            //Console.Write(Math.Abs(sayi1)); // Mutlak değerini alır.
+
+            //double sayi1,sayi2;
+            //sayi1 = 25;
+            //sayi2 = 85;
+            //Console.WriteLine(Math.Min(sayi1, sayi2));  // En küçük sayıyı verir.
+            //Console.WriteLine(Math.Max(sayi1, sayi2));  // En büyük sayıyı verir. 
+
+            //int sayi = 4;
+            //Console.WriteLine(Math.Pow(sayi, 2)); // 4^2  pow = üs alma işlemi yapar
+
+            //int sayi = 8;
+            //Console.WriteLine(Math.Pow(sayi, 3)); // 8^3 = 512  
+
+            //int sayi = 625;
+            //Console.WriteLine(Math.Sqrt(sayi)); // Sqrt Karekök alma işlemi yapar.
+
+            //double sayi = 47.85;
+            //Console.WriteLine(Math.Floor(sayi)); // Sayıyı aşağıya yuvarlar.
+            //Console.WriteLine(Math.Ceiling(sayi)); // Sayıyı yukarıya yuvarlar.
+
+            //Console.WriteLine(Math.PI); // Pi sayısını verir.
+
+            //Console.WriteLine(Math.PI*2);
+
+            //double sayi = 42.36;
+            //Console.WriteLine(Math.Round(sayi)); // sayıyı en yakın tam sayıya yuvarlar.

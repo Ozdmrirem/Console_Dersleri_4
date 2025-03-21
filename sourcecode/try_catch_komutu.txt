@@ -1,0 +1,45 @@
+﻿//try catch
+            //int sayi;
+            //Console.WriteLine("Sayıyı Girin");
+            //sayi = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write(sayi * 2);
+
+            //try
+            //{
+            //    Console.Write("Sayıyı Girin:");
+            //    int sayi;
+            //    sayi = Convert.ToInt32(Console.ReadLine());
+            //    int sonuc = sayi * sayi;
+            //    Console.WriteLine("Kare: " + sonuc);
+            //}
+            //catch 
+            //{
+            //    Console.WriteLine("Bir Hata Oluştu");
+            //}
+
+            //try
+            //{
+            //    int sayi;
+            //    Console.Write("Sayıyı Giriniz: ");
+            //    sayi = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine("Sayının 3.Kuvveti: " + (sayi*sayi*sayi));
+            //}
+            //catch (ArgumentNullException error1)
+            //{
+            //    Console.Write("Değer Girilmedi");
+            //}
+            //catch (FormatException error2)
+            //{
+            //    Console.WriteLine("Hatalı veri formatı girildi.");
+            //    Console.Write(error2.ToString());
+            //}
+            //catch (OverflowException error3)
+            //{
+            //    Console.WriteLine("Girdiğiniz değer çok büyük veya çok küçük");
+            //    Console.Write(error3.ToString());
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("Bu işlem tamamlandı");
+            //}
